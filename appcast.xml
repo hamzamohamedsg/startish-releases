@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Startish</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sun, 25 Oct 2026 06:19:30 +0300</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/hamzamohamedsg/startish-releases/releases/download/v1.0/Startish-1.0.zip" length="31570124" type="application/octet-stream" sparkle:edSignature="7Ocr29c/ty43/vDYl6xgHoAW/Y/PcEOIhN/Z0LdJOTGce8HW8BI9yZjx38A+6ymmXaqUMVje4xdr+1Up+VktCA=="/>
+        </item>
+    </channel>
+</rss>
