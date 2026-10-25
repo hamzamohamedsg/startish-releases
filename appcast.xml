@@ -3,13 +3,22 @@
     <channel>
         <title>Startish</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Sun, 25 Oct 2026 07:01:09 +0300</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/hamzamohamedsg/startish-releases/releases/download/v1.1/Startish-1.1.zip" length="31586898" type="application/octet-stream" sparkle:edSignature="fDxLgi/ZuyhOB7P8uJNan9x9RgHQx7B1vTZKD0YlbPYUCqRsRl/+dESbhOQz1L9FiHSb1Bg6P7GcauLDxUUgAg=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Sun, 25 Oct 2026 06:19:30 +0300</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/hamzamohamedsg/startish-releases/releases/download/v1.0/Startish-1.0.zip" length="31570124" type="application/octet-stream" sparkle:edSignature="7Ocr29c/ty43/vDYl6xgHoAW/Y/PcEOIhN/Z0LdJOTGce8HW8BI9yZjx38A+6ymmXaqUMVje4xdr+1Up+VktCA=="/>
+            <enclosure url="https://github.com/hamzamohamedsg/startish-releases/releases/download/v1.1/Startish-1.0.zip" length="31570124" type="application/octet-stream" sparkle:edSignature="7Ocr29c/ty43/vDYl6xgHoAW/Y/PcEOIhN/Z0LdJOTGce8HW8BI9yZjx38A+6ymmXaqUMVje4xdr+1Up+VktCA=="/>
         </item>
     </channel>
 </rss>
