@@ -3,6 +3,15 @@
     <channel>
         <title>Startish</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Sun, 25 Oct 2026 14:22:56 +0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/hamzamohamedsg/startish-releases/releases/download/v1.2/Startish-1.2.zip" length="31594247" type="application/octet-stream" sparkle:edSignature="aJZCjFdRDJkGV0hQhdvaFgC+SF9QwOwhQZmFOeWxmcztautGoiYObd3GjDPZXykKV2z4h6gQukWBv2iz2InxDg=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Sun, 25 Oct 2026 07:01:09 +0300</pubDate>
             <sparkle:version>3</sparkle:version>
