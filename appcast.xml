@@ -3,6 +3,15 @@
     <channel>
         <title>Startish</title>
         <item>
+            <title>1.4.3</title>
+            <pubDate>Sat, 31 Oct 2026 20:58:41 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/hamzamohamedsg/startish-releases/releases/download/v1.4.3/Startish-1.4.3.zip" length="33335865" type="application/octet-stream" sparkle:edSignature="biAuUF8sIYZFPZf+YBP6WWbLHxgGos/X51qZbp/geFa6mQFXCf+TxJhgJKMYWLiSQvcfkTT+1CDptMLkA43UAQ=="/>
+        </item>
+        <item>
             <title>1.4.2</title>
             <pubDate>Sat, 31 Oct 2026 20:53:38 +0200</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/hamzamohamedsg/startish-releases/releases/download/v1.4.1/Startish-1.4.1.zip" length="33323803" type="application/octet-stream" sparkle:edSignature="1vAqR8I6TW0yWe4k9VThPjkRevnQcAp5fqeXJ3Z+OG57WxiYgWVZbN6qDi6SB6jTgEb2AndK/CF7UIdusl/eAA=="/>
-        </item>
-        <item>
-            <title>1.4</title>
-            <pubDate>Fri, 30 Oct 2026 13:22:16 +0200</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/hamzamohamedsg/startish-releases/releases/download/v1.4/Startish-1.4.zip" length="33113139" type="application/octet-stream" sparkle:edSignature="HBwn7daqd8ZIYM7l28X9OYMOF9F8hzinjUgnmaYJgbdMDQ6YFbZAtusnpY0L8eTlaNWVXs5wJ6mG4AZc4dIkBw=="/>
         </item>
     </channel>
 </rss>
